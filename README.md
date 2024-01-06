@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Motaz Hassis</h1>
 <h3 align="center">A passionate Full Stack developer from Palestine</h3>
 
-- 🔭 I’m currently working on [Zoldyck](https://github.com/MotazHassis/Zoldyck.git)
+- 🔭 I’m currently working on <a href="https://github.com/MotazHassis/Zoldyck.git">[Zoldyck]</a> and <a href="https://github.com/MotazHassis/E-Commerce-store-Isekai.git">[E-Commerce-store-Isekai]</a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
