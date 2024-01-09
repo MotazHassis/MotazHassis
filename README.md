@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Motaz Hassis</h1>
-<h3 align="center">A passionate Full Stack developer from Palestine</h3>
+<h3 align="center">A passionate Full Stack developer and Civi Engineer from Palestine</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/MotazHassis/Zoldyck.git">[Zoldyck (Social Media Web App)]</a> and <a href="https://github.com/MotazHassis/E-Commerce-store-Isekai.git">[E-Commerce-store-Isekai]</a>
 
