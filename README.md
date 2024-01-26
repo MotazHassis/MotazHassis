@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Motaz Hassis</h1>
 <h3 align="center">A passionate Junior Full Stack developer and Civi Engineer from Palestine</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/MotazHassis/Zoldyck.git">[Zoldyck (Social Media Web App)]</a> and <a href="https://github.com/MotazHassis/E-Commerce-store-Isekai.git">[E-Commerce-store-Isekai]</a>
+- 🔭 I’m currently working on <a href="https://github.com/MotazHassis/Gym-Membership-manager.git">[Gym-Membership-manager (Heroes Gym)]</a> , <a href="https://github.com/MotazHassis/Zoldyck.git">[Zoldyck (Social Media Web App)]</a> and <a href="https://github.com/MotazHassis/E-Commerce-store-Isekai.git">[E-Commerce-store-Isekai]</a>
 
 - 🌱 I’m currently learning **MERN Stack**
 
